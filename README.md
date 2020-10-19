@@ -35,6 +35,7 @@ Quanto ao Banco de dados, simplesmente cole o codigo que eu deixei nesse repósi
 
 Agora, basta adicionar um usuario em sua tabela usuarios clicando em `Insere`. 
 **Lembre-se que a senha tem que ser adicionada em MD5.**
+
 ![](https://i.imgur.com/5q2IDZX.png)<br></br>
 
 # Testando
