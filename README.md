@@ -27,16 +27,16 @@ Recomendo que você salve sua DB.php e simplesmente upe tudo de novo. Ou se voc�
 
 Deixe-os espalhados dentro da public_html.
 
-![](https://i.imgur.com/5q2IDZX.png)<br></br>
+![](https://i.imgur.com/FrRDiZy.png)<br></br>
 
 Quanto ao Banco de dados, simplesmente cole o codigo que eu deixei nesse repósitorio. Caso você ja tenha a tabela tokens, simplesmente cole o outro codigo no comando SQL
 
-![](https://i.imgur.com/5q2IDZX.png)<br></br>
+![](https://i.imgur.com/JZybRQL.png)<br></br>
 
 Agora, basta adicionar um usuario em sua tabela usuarios clicando em `Insere`. 
 **Lembre-se que a senha tem que ser adicionada em MD5.**
 
-![](https://i.imgur.com/5q2IDZX.png)<br></br>
+![](https://i.imgur.com/GSNcJSQ.png)<br></br>
 
 # Testando
 
